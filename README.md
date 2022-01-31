@@ -23,6 +23,11 @@
     <img alignt="center" alt="JavaScript" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
     <img alignt="center" alt="Git" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
     <img alignt="center" alt="Reactjs" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+    <img alignt="center" alt="Redux" height="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" >
+    <img alignt="center" alt="MySQL" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+    <img alignt="center" alt="MongoDB" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
+    <img alignt="center" alt="Docker" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
+    <img alignt="center" alt="NodeJS" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
   </div>
   <h2>Social:</h2>
   <div> 
